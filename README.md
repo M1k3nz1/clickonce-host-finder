@@ -94,8 +94,3 @@ no UAC manifest), and its embedded manifest declares `processorArchitecture`. Th
 does not guarantee ClickOnce compatibility.
 
 ---
-
-## Related
-
-- [clickonce-generator](https://github.com/Malcrove/clickonce-generator) — ClickOnce payload
-  generator with AppDomainManager injection
