@@ -4,9 +4,6 @@ Discover and rank .NET executables on Windows for ClickOnce host suitability. Sc
 binaries by Authenticode signing, strong-name/mixed-mode status, and embedded manifest
 compatibility.
 
-Pairs with the [ClickOnce Payload Generator](https://github.com/Malcrove/clickonce-generator) for
-AppDomainManager injection workflows.
-
 ---
 
 ## Requirements
